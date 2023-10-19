@@ -5,7 +5,6 @@
   <text x="150" y="16" font-size="16" text-anchor="middle">
     <a href="https://github.com/twentyhq/twenty">Twenty</a>
   </text>
-  <image x="100" y="1" width="20" height="20" xlink:href="https://avatars.githubusercontent.com/u/119600397?s=48&v=4" />
   <text x="140" y="40" font-size="16" text-anchor="middle">
     <a href="https://example.com" fill="blue">feat: Board options edit and reorder</a>
     <tspan x="50" dy="20"><a href="https://github.com/twentyhq/twenty/pull/1858" fill="blue">feat: insert images to notes</a></tspan>
