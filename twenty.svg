@@ -1,0 +1,16 @@
+<svg width="280" height="190" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="transparent" />
+  <rect x="10" y="10" width="260" height="170" rx="12" ry="12" stroke="black" stroke-width="2" fill="none" />
+  <rect x="80" y="5" width="120" height="20" fill="white" />
+  <text x="150" y="16" font-size="16" text-anchor="middle">
+    <a href="https://github.com/twentyhq/twenty">Twenty</a>
+  </text>
+  <image x="100" y="1" width="20" height="20" xlink:href="https://avatars.githubusercontent.com/u/119600397?s=48&v=4" />
+  <text x="140" y="40" font-size="16" text-anchor="middle">
+    <a href="https://example.com" fill="blue">feat: Board options edit and reorder</a>
+    <tspan x="50" dy="20"><a href="https://github.com/twentyhq/twenty/pull/1858" fill="blue">feat: insert images to notes</a></tspan>
+    <tspan x="50" dy="20"><a href="https://github.com/twentyhq/twenty/pull/1964" fill="blue">Chore: Improve dropdown draggable list</a></tspan>
+    <tspan x="50" dy="20"><a href="https://github.com/twentyhq/twenty/pull/1699" fill="blue">feat: reorder kanban columns</a></tspan>
+    <tspan x="48" dy="20"><a href="https://github.com/twentyhq/twenty/pull/1616" fill="blue">feat: Column title menus</a></tspan>
+  </text>
+</svg>
