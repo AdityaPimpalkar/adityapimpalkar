@@ -1,15 +1,72 @@
-<svg width="280" height="190" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="transparent" />
-  <rect x="10" y="10" width="260" height="170" rx="12" ry="12" stroke="black" stroke-width="2" fill="none" />
-  <rect x="80" y="5" width="120" height="20" fill="white" />
-  <text x="150" y="16" font-size="16" text-anchor="middle">
-    <a href="https://github.com/twentyhq/twenty">Twenty</a>
-  </text>
-  <text x="140" y="40" font-size="16" text-anchor="middle">
-    <a href="https://example.com" fill="blue">feat: Board options edit and reorder</a>
-    <tspan x="50" dy="20"><a href="https://github.com/twentyhq/twenty/pull/1858" fill="blue">feat: insert images to notes</a></tspan>
-    <tspan x="50" dy="20"><a href="https://github.com/twentyhq/twenty/pull/1964" fill="blue">Chore: Improve dropdown draggable list</a></tspan>
-    <tspan x="50" dy="20"><a href="https://github.com/twentyhq/twenty/pull/1699" fill="blue">feat: reorder kanban columns</a></tspan>
-    <tspan x="48" dy="20"><a href="https://github.com/twentyhq/twenty/pull/1616" fill="blue">feat: Column title menus</a></tspan>
-  </text>
+<svg fill="none" viewBox="0 0 330 220" width="280" height="190" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
+
+        .container {
+          border: 2px solid black;
+          border-radius: 10px;
+          padding: 20px;
+          color: black;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+          overflow: hidden;
+          font-size: 16px;
+          display: flex;
+          flex-direction: column;
+         
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+        
+        .container a {
+          padding: 2px 0px;
+        }
+
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+        
+        .top-content {
+          background: white;
+          padding: 0px 6px;
+          position: absolute; /* Set position to relative */
+          top: 0px; /* Adjust top position to control overflow */
+          display: flex;
+          align-items: center; /* Center content horizontally */
+          justify-content: center;
+          text-align: center;
+        }
+
+        .image {
+          padding-right: 5px; /* Add spacing between image and text */
+        }
+      </style>
+
+      <div class="container">
+        <div class="top-content">
+<!--           <div class="image">
+            <img src="https://avatars.githubusercontent.com/u/119600397?s=48&v=4" width="20" height="20" alt="User Image" />
+          </div> -->
+          <a href="https://github.com/twentyhq/twenty">Twenty</a>
+        </div>
+        <a href="https://github.com/twentyhq/twenty/pull/1858">feat: Board options edit and reorder</a>
+        <a href="https://github.com/twentyhq/twenty/pull/1964">feat: insert images to notes</a>
+        <a href="https://github.com/twentyhq/twenty/pull/1738">chore: Improve dropdown draggable list</a>
+        <a href="https://github.com/twentyhq/twenty/pull/1699">feat: reorder kanban columns</a>
+        <a href="https://github.com/twentyhq/twenty/pull/1616">feat: column title menus</a>
+      </div>
+    </div>
+  </foreignObject>
 </svg>
