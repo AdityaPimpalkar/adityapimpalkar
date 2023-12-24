@@ -45,9 +45,6 @@
 
       <div class="container">
         <div class="top-content">
-          <div class="image">
-            <img src="https://avatars.githubusercontent.com/u/119600397?s=48&v=4" width="20" height="20" alt="User Image" />
-          </div>
           <a href="https://github.com/twentyhq/twenty">Twenty</a>
         </div>
         <a href="https://github.com/twentyhq/twenty/pull/1858">feat: Board options edit and reorder</a>
