@@ -8,14 +8,14 @@
 
 📫 How to reach me: twitter.com/adityapimpalkar
 
-My last 5 contributions - 
+### My contributions
+
+<img src="298789-pull-git-request-icon.svg" height="15" width="15" /> <a href='https://github.com/twentyhq/twenty/pull/1858'>feat: Board options edit and reorder</a>
 <br />
-<a href='https://github.com/twentyhq/twenty/pull/1858'>feat: Board options edit and reorder</a>
+<img src="git-pull-request-close-svgrepo-com.svg" height="15" width="15" /> <a href='https://github.com/twentyhq/twenty/pull/1964'>feat: insert images to notes</a>
 <br />
-<a href='https://github.com/twentyhq/twenty/pull/1964'>feat: insert images to notes</a>
+<img src="298788-merge-git-icon.svg" height="15" width="15" /> <a href='https://github.com/twentyhq/twenty/pull/1738'>Chore: Improve dropdown draggable list</a>
 <br />
-<a href='https://github.com/twentyhq/twenty/pull/1738'>Chore: Improve dropdown draggable list</a>
+<img src="298788-merge-git-icon.svg" height="15" width="15" /> <a href='https://github.com/twentyhq/twenty/pull/1699'>feat: reorder kanban columns</a>
 <br />
-<a href='https://github.com/twentyhq/twenty/pull/1699'>feat: reorder kanban columns</a>
-<br />
-<a href='https://github.com/twentyhq/twenty/pull/1616'>feat: Column title menus</a>
+<img src="298788-merge-git-icon.svg" height="15" width="15" /> <a href='https://github.com/twentyhq/twenty/pull/1616'>feat: Column title menus</a>
